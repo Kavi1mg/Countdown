@@ -3,4 +3,4 @@ This is a simple yet interactive Countdown Timer project built using HTML, CSS, 
 
 Features:
 Displays a real-time countdown to the next New Year.
-Fully responsive and mobile-friendly design.
+Fully responsive.
